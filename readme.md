@@ -16,3 +16,5 @@
   5. Build MongoDB Models
 
   6. Hooks & Methods in Mongoose with JWT
+
+  7. Post API - createPost , updatePost , getAllPost , deletePost 
