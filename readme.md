@@ -18,3 +18,7 @@
   6. Hooks & Methods in Mongoose with JWT
 
   7. Post API - createPost , updatePost , getAllPost , deletePost 
+
+  8. Configured Error Middleware
+
+  9. Completed User Registration Controller
